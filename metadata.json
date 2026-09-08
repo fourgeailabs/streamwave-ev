@@ -1,0 +1,6 @@
+{
+  "name": "StreamWave",
+  "description": "High-fidelity music streaming for Equinox EV, tablets, and phones connecting to Plex, Subsonic, and Jellyfin with offline caching, synchronized lyrics, TV PIN sign-in, and voice controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
